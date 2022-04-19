@@ -1,5 +1,5 @@
 # Coursera-Courses
-Code for Coursera courses I have completed
+Code and Credentials for Coursera courses I have completed
 
 Courses:
 
